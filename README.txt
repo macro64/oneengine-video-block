@@ -1,4 +1,7 @@
-    OneEngine - Multi-purpose One Page WordPress Theme
+Theme files and initial Code created by:
+
+
+OneEngine - Multi-purpose One Page WordPress Theme
     Copyright (C) 2014 - EngineThemes
 
     This program is free software: you can redistribute it and/or modify
